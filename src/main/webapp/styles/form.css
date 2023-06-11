@@ -1,0 +1,36 @@
+form{
+    margin: 2rem 0;
+}
+
+input{
+    font-family: inherit;
+    height: 2rem;
+    border-radius: 10px;
+}
+
+input:hover{
+    background-color: aliceblue;
+}
+
+button{
+    font-family: inherit;
+    height: 2rem;
+    border-radius: 10px;
+}
+
+button:hover{
+    background-color: rgb(134, 134, 134);
+}
+
+select{
+    border-radius: 5px;
+    padding: 5px;
+}
+
+select:hover{
+    background-color: aliceblue;
+}
+
+#make-bookmark{
+    margin: 1rem 0;
+}

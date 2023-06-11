@@ -1,0 +1,28 @@
+table{
+    width: 100%;
+    border: 1px solid black;
+}
+
+tr{
+    background-color: rgb(237, 201, 255);
+}
+
+tr:nth-child(even){
+    background-color: rgb(231, 183, 255);
+}
+
+td:first-child{
+    background-color: rgb(195, 74, 255);;
+    color: white;
+}
+
+td{
+    padding: 0.8rem;
+}
+
+th{
+    font-size: 2rem;
+    padding: 1rem;
+    background-color: blueviolet;
+    color: white;
+}
