@@ -28,9 +28,48 @@
 - 히스토리를 누르면, 내가 위치를 조회했던 시점 기록을 조회하고 삭제할 수 있습니다.
 
 
-## 사용된 기술 스택?
-- Back-end : JSP, Servlet
-- Database : Sqlite
-- Dependencies : GSON, Okhttp, sqliteJDBC
-- Front-end : HTML, CSS, JavaScript
+## 사용된 기술 스택
 
+<table>
+  <tr>
+    <th style="text-align: center;">Back-end </th>
+    <th style="text-align: center;">Database</th>
+    <th style="text-align: center;">Dependencies</th>
+    <th style="text-align: center;">Front-end</th>
+  </tr>
+  <tr>
+    <td style="text-align: center;"><img src="https://img.shields.io/badge/-JSP-orange"></td>
+    <td style="text-align: center;"><img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=SQLite&logoColor=white"/></td>
+    <td style="text-align: center;"><img src="https://img.shields.io/badge/-Gson-brightgreen"></td>
+    <td style="text-align: center;"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/></td>
+  </tr>
+  <tr>
+    <td style="text-align: center;"><img src="https://img.shields.io/badge/-Servlet-orange"></td>
+    <td style="text-align: center;"></td>
+    <td style="text-align: center;"><img src="https://img.shields.io/badge/-Okhttp-15a38b"></td>
+    <td style="text-align: center;"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/></td>
+  </tr>
+   <tr>
+    <td style="text-align: center;"></td>
+    <td style="text-align: center;"></td>
+    <td style="text-align: center;"><img src="https://img.shields.io/badge/-SQLiteJDBC-blue"></td>
+    <td style="text-align: center;"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black"/></td>
+  </tr>
+</table>
+
+<hr>
+
+## 사용 화면
+
+![image](https://github.com/J-HyeonSeo/Find-Wifi-In-Seoul/assets/47245112/7a60785c-f2b2-467d-957f-570713ad4d77)
+![image](https://github.com/J-HyeonSeo/Find-Wifi-In-Seoul/assets/47245112/09e8a7a1-a743-4308-b1bc-6683c67df90b)
+![image](https://github.com/J-HyeonSeo/Find-Wifi-In-Seoul/assets/47245112/39561230-41dc-4d7e-a839-43a89445883a)
+![image](https://github.com/J-HyeonSeo/Find-Wifi-In-Seoul/assets/47245112/0a10e658-92bc-4fe3-94ff-c520e244dec0)
+
+<hr>
+
+### Copyrights
+
+본 프로젝트는 서울시 열린데이터 광장의 데이터를 사용하여 와이파이의 위치를 표시합니다. 
+
+(서울시 열린데이터광장(서울시 공공와이파이)=> https://data.seoul.go.kr/dataList/OA-20883/S/1/datasetView.do)
